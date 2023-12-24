@@ -25,7 +25,7 @@ int main() {
         cout << "moving " << labels[dir] << endl; // ``go''
     }
 } // end of main()
-void getSensors(int &sensors[]){
+void getSensors(int sensors[]){
     for(int k=0;k<4;k++){
         sensor[k]=senseDistance(k);
     }
