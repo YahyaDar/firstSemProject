@@ -2,7 +2,11 @@
 
 # IDE Configs
 .vscode/
+**/.vscode/
 
 # Executables
 *.exe
 *.out
+
+# extra
+2023601-2023629-2023759/
